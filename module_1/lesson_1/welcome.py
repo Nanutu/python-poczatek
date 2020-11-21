@@ -1,4 +1,4 @@
-from module_1 import hello_world
+from module_1.lesson_1 import hello_world
 
 print(hello_world.hello())
 

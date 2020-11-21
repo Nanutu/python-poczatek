@@ -1,4 +1,4 @@
-from module_1 import math
+from module_1.lesson_1 import math
 
 
 def avg_spd(time, dst):
