@@ -5,3 +5,6 @@ def hello():
 
 def hello_name(name):
     return f"Hello {name}"
+
+
+print("Kolejny commit")
