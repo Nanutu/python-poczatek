@@ -1,5 +1,6 @@
 from shop.orders import new_order
 
+
 def run_shop():
     print("Witaj w naszym sklepie!")
     product_name = input("Jaki towar chcesz kupić?")
