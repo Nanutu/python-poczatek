@@ -1,4 +1,4 @@
-from shop.orders import new_order
+from shop import new_order
 
 
 def run_shop():
