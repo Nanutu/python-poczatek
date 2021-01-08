@@ -1,4 +1,4 @@
-#instalacja bibliotek
+# instalacja bibliotek
 
 import geopy
 import requests

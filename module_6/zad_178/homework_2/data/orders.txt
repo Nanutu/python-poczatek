@@ -1,0 +1,47 @@
+--------------------
+Zamówienie złożone przez: abc aas
+O łącznej wartości: 200 PLN
+Zamówione produkty:
+	Nazwa: Chleb | Kategoria: Jedzonko | Cena: 22 PLN/szt x 1
+	Nazwa: Młotek | Kategoria: Narzędzia | Cena: 96 PLN/szt x 1
+	Nazwa: Rower | Kategoria: Inne | Cena: 82 PLN/szt x 1
+
+--------------------
+KONIEC TWORZENIA ZAMÓWIENIA
+--------------------
+Zamówienie złożone przez: as assa
+O łącznej wartości: 113 PLN
+Zamówione produkty:
+	Nazwa: Chleb | Kategoria: Jedzonko | Cena: 18 PLN/szt x 1
+	Nazwa: Kosiarka | Kategoria: Narzędzia | Cena: 95 PLN/szt x 1
+
+--------------------
+KONIEC TWORZENIA ZAMÓWIENIA
+--------------------
+Zamówienie złożone przez: aaa aaa
+O łącznej wartości: 153 PLN
+Zamówione produkty:
+	Nazwa: Młotek | Kategoria: Narzędzia | Cena: 85 PLN/szt x 1
+	Nazwa: Chleb | Kategoria: Jedzonko | Cena: 68 PLN/szt x 1
+
+--------------------
+KONIEC TWORZENIA ZAMÓWIENIA
+--------------------
+Zamówienie złożone przez: asda asd
+O łącznej wartości: 90 PLN
+Zamówione produkty:
+	Nazwa: Chleb | Kategoria: Jedzonko | Cena: 72 PLN/szt x 1
+	Nazwa: Młotek | Kategoria: Narzędzia | Cena: 18 PLN/szt x 1
+
+--------------------
+KONIEC TWORZENIA ZAMÓWIENIA
+--------------------
+Zamówienie złożone przez: nnn aaa
+O łącznej wartości: 182 PLN
+Zamówione produkty:
+	Nazwa: Młotek | Kategoria: Narzędzia | Cena: 80 PLN/szt x 1
+	Nazwa: Młotek | Kategoria: Narzędzia | Cena: 80 PLN/szt x 1
+	Nazwa: Kosiarka | Kategoria: Narzędzia | Cena: 22 PLN/szt x 1
+
+--------------------
+KONIEC TWORZENIA ZAMÓWIENIA
